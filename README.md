@@ -1,2 +1,2 @@
-# whatsapp-status-ideas
-✨ A collection of cool, funny and thoughtful WhatsApp status ideas.
+# ✨ WhatsApp Status Ideas
+A collection of cool, funny and thoughtful WhatsApp status ideas.
