@@ -10,18 +10,28 @@ A collection of ideas for your WhatsApp status: funny, profound, motivational ph
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
 
 ## 📕 Ideas
+
+### 🤣 Funny
 - Still downloading patience… 50%
 - Airplane mode, but no plane
 - Offline, but watching everything
+
+### 💭 Thoughtful
 - Be the change you wish to see in the world
 - Happiness is a daily choice
 - Everything passes… even the Wi-Fi
+
+### 🔥 Motivational
 - One day at a time
 - Don’t stop until you’re proud
 - Fail fast, rise strong
+
+### 💔 Sad/Emotional
 - It’s okay not to be okay
 - Smiling outside, storming inside
 - Nothing to say, too much to feel
+
+### 💘 Romantic
 - You’re on my mind (and using my data)
 - My heart’s password is your name
 - In love with someone who doesn’t notice
