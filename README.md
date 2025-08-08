@@ -12,7 +12,7 @@ A collection of ideas for your WhatsApp status: funny, profound, motivational ph
 ## 📕 Ideas
 
 ### 🤣 Funny
-- Still downloading patience… 50%
+- Still downloading patience... 50%
 - Airplane mode, but no plane
 - Offline, but watching everything
 
