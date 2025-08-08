@@ -19,7 +19,7 @@ A collection of ideas for your WhatsApp status: funny, profound, motivational ph
 ### 💭 Thoughtful
 - Be the change you wish to see in the world
 - Happiness is a daily choice
-- Everything passes… even the Wi-Fi
+- Everything passes... even the Wi-Fi
 
 ### 🔥 Motivational
 - One day at a time
